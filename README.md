@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I am Currently Working on Some Projects.<br>- I would love to make Open Source Contributions.<br>- if you want to collab and do something Contact me.<br>
+->I am Currently Working on Some Projects.<br>->I would love to make Open Source Contributions.<br>->if you want to collab and do something Contact me.<br>
 
 
 ## 🌐 Socials:
