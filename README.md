@@ -18,6 +18,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ighackerbot&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=QuickHarsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
