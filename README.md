@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/render?type=wave&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+profile;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
 
