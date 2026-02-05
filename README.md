@@ -72,7 +72,7 @@
   
   <br/>
   
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=QuickHarsh&icon=5&color=12)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=QuickHarsh&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
