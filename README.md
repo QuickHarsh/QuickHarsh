@@ -23,14 +23,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=QuickHarsh&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="QuickHarsh's Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuickHarsh&theme=radical&hide_border=true&background=00000000" alt="QuickHarsh's Streak" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=QuickHarsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="QuickHarsh's Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuickHarsh&theme=tokyonight&hide_border=true" alt="QuickHarsh's Streak" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QuickHarsh&theme=radical&hide_border=true&layout=compact&bg_color=00000000" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QuickHarsh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -56,7 +56,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QuickHarsh&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=QuickHarsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> -->
 </div>
 
 ---
