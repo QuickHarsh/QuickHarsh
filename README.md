@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuickHarsh&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="QuickHarsh's Stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=QuickHarsh&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="QuickHarsh's Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuickHarsh&theme=radical&hide_border=true&background=00000000" alt="QuickHarsh's Streak" height="180"/>
 </div>
 
