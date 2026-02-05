@@ -1,27 +1,75 @@
-# 💫 About Me:
-->I am Currently Working on Some Projects.<br>->I would love to make Open Source Contributions.<br>->if you want to collab and do something Contact me.<br>
+![Header](https://capsule-render.vercel.app/render?type=wave&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62)
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annoyedbuck) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpatel101/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=QuickHarsh&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=QuickHarsh&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuickHarsh&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=QuickHarsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=QuickHarsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Creative+Coder;Always+Learning...)](https://git.io/typing-svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=QuickHarsh&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,supabase,postgresql,git,github,vscode,docker,bash,linux,vercel,netlify,figma,notion&perline=11" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuickHarsh&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="QuickHarsh's Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuickHarsh&theme=radical&hide_border=true&background=00000000" alt="QuickHarsh's Streak" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuickHarsh&theme=radical&hide_border=true&layout=compact&bg_color=00000000" alt="Top Languages" height="180" />
+</div>
+
+---
+
+### 🐍 Contributions & Activity
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <a href="https://github.com/QuickHarsh/QuickHarsh/actions/workflows/snake.yml">
+    <img src="https://github.com/QuickHarsh/QuickHarsh/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  </a>
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=QuickHarsh&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🤝 Let's Connect
+  
+  <p align="center">
+    <a href="https://instagram.com/annoyedbuck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annoyedbuck" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/harshpatel101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshpatel101" height="30" width="40" /></a>
+  </p>
+  
+  <br/>
+  
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=QuickHarsh&icon=5&color=12)
+
+</div>
+
+</div>
